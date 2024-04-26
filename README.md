@@ -20,11 +20,7 @@ Variables Utilizadas
 Metodología
 
 El análisis se realiza utilizando datos recopilados desde el año 2015 hasta el 2023. Se emplean técnicas estadísticas y de visualización para explorar las relaciones entre las variables y comprender mejor los factores que contribuyen a la felicidad.
-Hallazgos Destacados
 
-    Finlandia se mantiene en la primera posición por sexto año consecutivo, destacándose por su enfoque en el bienestar social, la igualdad y la calidad de vida.
-    Lituania es la única novedad entre los veinte primeros, subiendo más de 30 puestos desde 2017.
-    Afganistán y Líbano siguen siendo los dos países más infelices del estudio, afectados por conflictos armados.
 
 Consideraciones Finales
 
